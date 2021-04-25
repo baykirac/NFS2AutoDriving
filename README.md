@@ -1,1 +1,2 @@
 # NFS2AutoDriving
+İf you want to run this program faultless. You should run your game as an administrator because pressing a button in the games is not possible without authorization so pydirectinput library needs that.
