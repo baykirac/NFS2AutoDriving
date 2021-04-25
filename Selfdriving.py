@@ -1,5 +1,4 @@
 import cv2,time,pyautogui
-from PIL import ImageGrab
 import numpy as np
 import pydirectinput as pyd
 def go_forward():
